@@ -1,7 +1,1 @@
-# ProiectPOO
-Proiect POO- Marin Andreea-Iulia, 321AC. 
-cast.csv este fisierul din care se fac citirile iar restul sunt generate de program. 
-Screenshoturile prezinta ce fisiere genereaza programul pentru fiecare alegere a utilizatorului(in romana sau engleza) iar screenshotul "gresit" arata ca programul 
-nu genereaza nimic pentru orice alta litera in afara celor doua. 
-Fisierele csv au fost denumite in functie de continut si limba in care sunt scrise. 
-:)
+This application enables movie and TV show producers to effortlessly calculate andcompare filming costs by utilizing provided databases with crucial information. Initiallydesigned for evaluating the expenses of producing the renowned TV show 'Wednesday,'the app is versatile and can be customized to suit any production needs. Developed usingfundamental object-oriented programming concepts, the program is coded in C++. :)
